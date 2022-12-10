@@ -1,4 +1,4 @@
-svgpath
+svgpath Browserify
 =======
 
 [![CI](https://github.com/fontello/svgpath/workflows/CI/badge.svg)](https://github.com/fontello/svgpath/actions)
