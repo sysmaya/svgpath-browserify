@@ -13,6 +13,9 @@ Then this package is for you :) !
 Note: this package works with [path data](https://www.w3.org/TR/SVG11/paths.html#PathData) strings,
 not with full svg xml sources.
 
+IMPORTANT: This Fork does not implement improvements, changes, or modifications on the original.
+It's just a wrapper to load svgpath from the browser. No need for NodeJS.
+
 
 Install
 -------
