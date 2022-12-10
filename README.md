@@ -18,17 +18,19 @@ Install
 -------
 
 ```bash
-npm install svgpath
+Download the svgpath.browserify.js file and upload it to your server
 ```
 
 
 Example
 -------
+```html
+<script src="js/svgpath.browserify.js"></script>
+```
 
 ```js
-var svgpath = require('svgpath');
-
-var transformed = svgpath(__your_path__)
+//Just use the SVGPATH variable to do magic!!
+var transformed = SVGPATH(__your_path__)
                     .scale(0.5)
                     .translate(100,200)
                     .rel()
