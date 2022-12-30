@@ -16,6 +16,11 @@ not with full svg xml sources.
 IMPORTANT: This Fork does not implement improvements, changes, or modifications on the original.
 It's just a wrapper to load svgpath from the browser. No need for NodeJS.
 
+This library was originally created for use in NodeJS. But its usefulness seems extraordinary to me and I needed to use it on my website: https://idraw.muisca.co
+So using Browserify, create a wrapper that allows you to use this library within the browser.
+If you want you can review my site.
+
+![iDraw-SVG-editor-online](https://user-images.githubusercontent.com/18316343/210114620-2cc246be-a774-478b-ad4b-6dce29a53485.gif)
 
 Install
 -------
