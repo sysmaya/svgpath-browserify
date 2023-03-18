@@ -16,7 +16,7 @@ not with full svg xml sources.
 IMPORTANT: This Fork does not implement improvements, changes, or modifications on the original.
 It's just a wrapper to load svgpath from the browser. No need for NodeJS.
 
-This library was originally created for use in NodeJS. But its usefulness seems extraordinary to me and I needed to use it on my website: https://idraw.muisca.co
+This library was originally created for use in NodeJS. But its usefulness seems extraordinary to me and I needed to use it on my website: https://artdraw.org
 So using Browserify, create a wrapper that allows you to use this library within the browser.
 If you want you can review my site.
 
